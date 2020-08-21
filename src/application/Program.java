@@ -2,8 +2,8 @@ package application;
 
 import java.util.Date;
 
-import modelo.entities.Department;
-import modelo.entities.Seller;
+import model.entities.Department;
+import model.entities.Seller;
 
 public class Program {
 
